@@ -22,3 +22,5 @@ The data folder includes all files for linear model code
 ## Rendered output
 
 The rendered output for the abalone linear model is [here](https://github.com/Sascharr16/workshop-07_spring-2026_12PM/blob/main/code/abalone-example.pdf)
+
+The rendered output for the temperature and elevation relationship is [here](https://github.com/Sascharr16/workshop-07_spring-2026_12PM/blob/main/code/sonadora-temperature-example.pdf)
